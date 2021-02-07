@@ -1,4 +1,4 @@
-# HacerRank 30 Days of Code Solutions
+# HackerRank 30 Days of Code Solutions
 
 Day 0: Hello, World.
 
